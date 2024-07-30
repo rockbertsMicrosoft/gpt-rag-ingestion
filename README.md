@@ -6,7 +6,7 @@ Part of [GPT-RAG](https://github.com/Azure/gpt-rag)
 
 You can provision the infrastructure and deploy the whole solution using the GPT-RAG template, as instructed at: https://aka.ms/gpt-rag.
 
-## What if I want to redeploy just the ingestion component?
+## What if I want to redeploy just the ingestion component?.
 
 Eventually, you may want to make some adjustments to the data ingestion code and redeploy the component.
 
